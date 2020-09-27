@@ -1,0 +1,3 @@
+- ## Get Started
+    - [SeeReview](/{{route}}/{{version}}/overview)
+    - [Checkout](/{{route}}/{{version}}/checkout)
